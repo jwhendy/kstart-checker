@@ -1,0 +1,11 @@
+0
+2016-03-08 14:52:02.162358
+2016-03-08 14:21:01.742714
+
+update: told you about a reward, now it's gone :( 
+
+units: 1	cost: 99.0	remaining: 0
+units: 1	cost: 119.0	remaining: 0
+units: 1	cost: 139.0	remaining: 0
+units: 2	cost: 299.0	remaining: 0
+units: 2	cost: 299.0	remaining: 350
