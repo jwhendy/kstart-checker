@@ -1,10 +1,10 @@
-1
+0
+2016-03-14 16:27:02.566147
 2016-03-14 16:26:02.605838
-2016-03-14 16:21:03.629997
 
-update: same old, same old 
+update: the reward is gone now :( 
 
-units: 1	cost: 99.0	remaining: 1
+units: 1	cost: 99.0	remaining: 0
 units: 1	cost: 119.0	remaining: 0
 units: 1	cost: 139.0	remaining: 0
 units: 2	cost: 299.0	remaining: 0
