@@ -1,8 +1,8 @@
 1
-2016-03-16 17:14:03.578059
+2016-03-16 17:15:03.890904
 2016-03-16 17:13:03.941026
 
-update: based on log, there is a new reward that just popped up! 
+update: same old, same old 
 
 units: 1	cost: 99.0	remaining: 0
 units: 1	cost: 119.0	remaining: 1
