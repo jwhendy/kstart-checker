@@ -1,5 +1,5 @@
 0
-2016-03-17 04:16:04.591594
+2016-03-17 04:17:04.480797
 2016-03-17 02:38:04.720210
 
 nothing new :/ 
@@ -8,4 +8,4 @@ units: 1	cost: 99.0	remaining: 0
 units: 1	cost: 119.0	remaining: 0
 units: 1	cost: 139.0	remaining: 0
 units: 2	cost: 299.0	remaining: 0
-units: 2	cost: 299.0	remaining: 259
+units: 2	cost: 299.0	remaining: 260
