@@ -1,8 +1,8 @@
 0
-2016-03-17 11:54:52.922817
-2016-03-17 11:54:43.627415
+2016-03-17 12:00:03.164668
+2016-03-17 11:56:04.152868
 
-update: a reward is gone now :( 
+update: same old, same old 
 
 units: 1	cost: 99.0	remaining: 0
 units: 1	cost: 119.0	remaining: 0
