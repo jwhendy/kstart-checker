@@ -1,0 +1,11 @@
+0
+2016-03-17 11:22:02.715924
+
+
+update: same old, same old 
+
+units: 1	cost: 99.0	remaining: 0
+units: 1	cost: 119.0	remaining: 0
+units: 1	cost: 139.0	remaining: 0
+units: 2	cost: 299.0	remaining: 0
+units: 2	cost: 299.0	remaining: 102
