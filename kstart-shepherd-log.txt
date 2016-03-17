@@ -1,11 +1,11 @@
-1
-2016-03-17 11:54:07.370025
-2016-03-17 11:54:01.839212
+0
+2016-03-17 11:54:52.922817
+2016-03-17 11:54:43.627415
 
-update: based on log, there is a new reward that just popped up! 
+update: a reward is gone now :( 
 
 units: 1	cost: 99.0	remaining: 0
 units: 1	cost: 119.0	remaining: 0
 units: 1	cost: 139.0	remaining: 0
 units: 2	cost: 299.0	remaining: 0
-units: 2	cost: 299.0	remaining: 98
+units: 2	cost: 299.0	remaining: 102
