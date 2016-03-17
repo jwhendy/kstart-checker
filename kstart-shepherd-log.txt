@@ -1,6 +1,6 @@
 0
-2016-03-17 11:27:02.363013
-
+2016-03-17 11:28:02.711142
+2016-03-17 11:27:23.194352
 
 update: same old, same old 
 
@@ -8,4 +8,4 @@ units: 1	cost: 99.0	remaining: 0
 units: 1	cost: 119.0	remaining: 0
 units: 1	cost: 139.0	remaining: 0
 units: 2	cost: 299.0	remaining: 0
-units: 2	cost: 299.0	remaining: 104
+units: 2	cost: 299.0	remaining: 259
